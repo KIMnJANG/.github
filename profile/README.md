@@ -2,7 +2,7 @@
 
 
 ## 발표 슬라이드
-[![Slide](./images/slide000.png)](https://speakerdeck.com/kimjunil/aipel-yangjae-haekeoton-mlops "Slide")
+[![Slide](https://github.com/KIMnJANG/.github/raw/main/profile/images/slide000.png)](https://speakerdeck.com/kimjunil/aipel-yangjae-haekeoton-mlops "Slide")
 
 ## 발표 영상
 준비중입니다.
