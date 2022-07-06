@@ -1,5 +1,7 @@
 # 아이펠 양재 해커톤 김앤장팀의 결과물 저장소입니다
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIMnJANG%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KIMnJANG)
+
 [발표영상](https://www.youtube.com/watch?v=HF87PG_oxSg) | [발표 슬라이드](https://speakerdeck.com/kimjunil/aipel-yangjae-haekeoton-mlops "Slide") | [Experiment Pipeline 시연영상](http://www.youtube.com/watch?v=uSuphYjA3aA "Experiment Pipeline") | [Deploy Pipeline 시연영상](http://www.youtube.com/watch?v=aJPTNDkdsxI "Deploy Pipeline")
 
 # 목표
